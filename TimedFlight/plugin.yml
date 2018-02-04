@@ -1,0 +1,8 @@
+﻿name: TimedFlight
+main: com.github.alwaysreadywby.timedflight.TimedFlight
+version: 0.0.1dev
+author: AlwaysReadyWBY
+
+commands:
+  tf:
+  timedflight:
